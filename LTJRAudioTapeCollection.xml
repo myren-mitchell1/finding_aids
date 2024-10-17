@@ -13,7 +13,7 @@
 				<author>Myren Mitchell</author>
 			</titlestmt>
 			<publicationstmt>
-				<date>2024-06-27</date>
+				<date>2024-10-17</date>
 				<publisher>Marist College Archives and Special Collections</publisher>
 				<address>
 					<addressline>James A. Cannavino Library, First Floor, Room 134</addressline>
@@ -25,8 +25,6 @@
 				</address>
 			</publicationstmt>
 		</filedesc>
-		<maintenancestatus value="revised"/>
-		<publicationstatus value="published"/>
 		<languagedeclaration>
 			<language langcode="eng"> English </language>
 		</languagedeclaration>
@@ -34,15 +32,6 @@
 			<script scriptcode="latn">Latin</script>
 			<descriptivenote>Describing Archives: a Content Standard</descriptivenote>
 		</conventiondeclaration>
-		<maintenancehistory>
-			<maintenanceevent>
-				<eventtype value="created"/>
-				<eventdatetime standarddatetime="2024-06-27EDT12:08:37-0400">June 27, 2024 12:08</eventdatetime>
-				<agenttype value="human"/>
-				<agent>Myren Mitchell</agent>
-				<eventdescription>Digital Object Created</eventdescription>
-			</maintenanceevent>		
-		</maintenancehistory>
 	</control>
 	<archdesc level="collection">
 		<did>
@@ -57,7 +46,7 @@
 			<langmaterial>
 				<language langcode="eng"> English </language>
 			</langmaterial>
-			<abstract>The Lowell Thomas Jr Audio Tape Collection contains sixty-two 	reel-to-reel audio tapes recorded by Lowell Thomas Jr. These recordings include soundtracks and backgrond sound effects for films, and speeches from family gatherings.
+			<abstract>The Lowell Thomas Jr Audio Tape Collection contains sixty-two reel-to-reel audio tapes recorded by Lowell Thomas Jr. These recordings include soundtracks and backgrond sound effects for films, and speeches from family gatherings.
 			</abstract>
 			<unitdatestructured unitdatetype="inclusive">
 				<daterange>
