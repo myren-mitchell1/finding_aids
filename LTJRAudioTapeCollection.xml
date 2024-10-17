@@ -1,0 +1,659 @@
+<ead relatedencoding="MARC">
+	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="iso15511" scriptencoding="iso15924" repositoryencoding="iso15511">
+		<recordid instanceurl="https://archipelago.senylrc.org/do/0debb45e-89a0-400a-8078-2d7f229e23aa/metadadata/ead3/default.xml"/>
+		<representation href="https://archipelago.senylrc.org/do/0debb45e-89a0-400a-8078-2d7f229e23aa" linktitle="Digital Object with HTML display of the finding aid" show="new"/>
+		
+		<maintenanceagency>
+			<agencycode>npkmc</agencycode>
+			<agencyname>Marist College Archives and Special Collections</agencyname>
+		</maintenanceagency>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Lowell Thomas Jr. Audio Tape Collection</titleproper>
+				<author>Myren Mitchell</author>
+			</titlestmt>
+			<publicationstmt>
+				<date>2024-06-27</date>
+				<publisher>Marist College Archives and Special Collections</publisher>
+				<address>
+					<addressline>James A. Cannavino Library, First Floor, Room 134</addressline>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie</addressline>
+					<addressline>New York</addressline>
+					<addressline>12601</addressline>
+					<addressline>United States</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<maintenancestatus value="revised"/>
+		<publicationstatus value="published"/>
+		<languagedeclaration>
+			<language langcode="eng"> English </language>
+		</languagedeclaration>
+		<conventiondeclaration>
+			<script scriptcode="latn">Latin</script>
+			<descriptivenote>Describing Archives: a Content Standard</descriptivenote>
+		</conventiondeclaration>
+		<maintenancehistory>
+			<maintenanceevent>
+				<eventtype value="created"/>
+				<eventdatetime standarddatetime="2024-06-27EDT12:08:37-0400">June 27, 2024 12:08</eventdatetime>
+				<agenttype value="human"/>
+				<agent>Myren Mitchell</agent>
+				<eventdescription>Digital Object Created</eventdescription>
+			</maintenanceevent>		
+		</maintenancehistory>
+	</control>
+	<archdesc level="collection">
+		<did>
+			<unittitle label="title">Lowell Thomas Jr. Audio Tape Collection</unittitle>
+			<unitid/>
+			<physdescset>
+				<physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+					<quantity>62</quantity>
+					<unitype>Audio Tapes</unitype>
+				</physdescstructured>
+			</physdescset>
+			<langmaterial>
+				<language langcode="eng"> English </language>
+			</langmaterial>
+			<abstract>The Lowell Thomas Jr Audio Tape Collection contains sixty-two 	reel-to-reel audio tapes recorded by Lowell Thomas Jr. These recordings include soundtracks and backgrond sound effects for films, and speeches from family gatherings.
+			</abstract>
+			<unitdatestructured unitdatetype="inclusive">
+				<daterange>
+					<fromdate standarddate="1950">1950</fromdate>
+					<todate standarddate="1973">1973</todate>
+				</daterange>
+			</unitdatestructured>
+			<repository>
+				<corpname>
+					<part>Marist College Archives and Special Collections</part>
+				</corpname>
+				<address>
+					<addressline>James A. Cannavino Library, First Floor, Room 134</addressline>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie</addressline>
+					<addressline>New York</addressline>
+					<addressline>12601</addressline>
+					<addressline>United States</addressline>
+				</address>
+			</repository>
+		</did>
+		<accessrestrict>
+			<p>There are no restrictions on this collection</p>
+		</accessrestrict>
+		<userestrict>
+			<p>Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold harmless the Marist College Archives and Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For more information please visit the following website: http://www.loc.gov/copyright/title17/.</p>
+		</userestrict>
+		<bioghist>
+			<p>Lowell Thomas Jr. was born on 6 October 1923 in London, England, to Lowell Jackson Thomas (1892-1981) 
+				and Frances Ryan Thomas (1893-1975). His early childhood was spent in New York City due to his father’s 
+				work broadcasting a nightly radio news show. He and his parents would spend weekends at the family home 
+				in Quaker Hill. </p>
+			<p>After graduating from Taft School in 1942, Lowell Thomas Jr. went to Dartmouth College before his 
+				studies were interrupted by World War II and he enlisted in the United States Army Air Corps. Before he 
+				could see combat, he suffered from an illness and, instead, became a flight instructor during the war. 
+				Following the war, he returned to Dartmouth and graduated in the class of 1946. Lowell Thomas Jr. 
+				developed passions for flying and skiing that he would continue for the rest of his life. After 
+				graduation, he traveled to Iran and Turkey, where he collected materials for travelogues that he 
+				presented on a U.S. tour during the winter of 1948-49. </p>
+			<p>In 1949, he and his father, Lowell Thomas Sr., the renowned broadcaster, writer, and world traveler 
+				became two of the few Westerners allowed entry into Tibet. The responsibility for filming, photographing, 
+				and tape recording the sights and sounds of Tibetan life fell mostly to Lowell Thomas Jr. During the 
+				journey back out of Tibet, his father was thrown from his horse shattering his hip. The rough, narrow roads 
+				to and from Tibet would not allow the passage of automobiles and with little medical supplies, Lowell Thomas 
+				Jr. created a makeshift stretcher for his father. Lowell Thomas Jr. wrote the bestselling book, Out of This 
+				World, and later produced a documentary of the same name. In 2005, the Dalai Lama referred to him as “one of 
+				the genuine grandfathers of the Tibet movement in America” and bestowed upon him the International Campaign 
+				for Tibet’s Light of Truth Award. </p>
+			<p>Following his return from Tibet, Lowell Thomas Jr. married Mary “Tay” Pryor. They were married for 64 years 
+				until her death in 2014. In 1954, he and Tay bought a Cessna 180 in which they traveled much of the globe 
+				while documenting their travels. They would publish articles on their trip and co-wrote the book, Our Flight 
+				to Adventure. </p>
+			<p>In 1958, they flew to Alaska with their toddler Anne and fell in love with the territory. Two years later, 
+				they would relocate there and would remain residents of Alaska for the rest of their lives. </p>
+			<p>Soon after moving to Anchorage, Lowell Thomas Jr. began his many years of public service. After 
+				unsuccessfully running twice for the U.S. House, he ran for state Senate. From 1967 to 1974, Lowell Thomas Jr. 
+				represented the Alaska Senate from District E as a Republican. </p>
+			<p>Thomas also became deeply involved in conservation issues. Some of his notable contributions were his work 
+				against the bounty hunting of wolves and work that led to the establishment of Chugach State Park in 1970. </p>
+			<p>In 1974, Lowell Thomas Jr. was elected as Alaska’s third lieutenant governor under Governor Jay Hammond. 
+				However, a controversy arose after remarks Thomas made were interpreted as approving of apartheid in South 
+				Africa. Hammond backed Thomas, calling it a hypocritical smear, but accepted his decision not to seek a second 
+				term. </p>
+			<p>Following his time in office, Lowell Thomas Jr. bought Talkeetna Air Taxi Service in 1981, an Alaskan bush 
+				pilot service, and remained an active pilot into his 80s. He shuttled skiers in the Alaska Range and onto North 
+				America’s tallest peak, Denali in his Helio Courier. Lowell Thomas Jr. has logged over 10,000 hours in the air 
+				without ever scratching a plane. In 2012, Lowell Thomas Jr. was inducted into the Aviation Museum Hall of Fame 
+				to which he also donated his beloved Helio Courier. </p>
+			<p>Lowell Thomas Jr. devoted much of his time and money to conservation issues and public service, and he and 
+				Tay aided many charitable causes. Among the many organizations the Thomases supported were the Alaska 
+				Conservation Foundation, the National Parks, and the Conservation Association. He helped to create the Thomas 
+				Planetarium at the Anchorage Museum, the Thomas Training Center on Eagle Glacier near Girdwood, and the Thomas 
+				Center for Senior Living at St. Mary’s Episcopal Church. Lowell Thomas Jr. was awarded a lifetime achievement 
+				award by the National Parks Conservation Association in 1995 and awarded the William Penn Mott Jr. Leadership 
+				Award by the Alaska Conservation Foundation in 2004. In 2011, the Alaska Conservation Foundation established 
+				the Lowell Thomas, Jr. Award for outstanding achievement by an Alaskan-based organization or program. </p>
+			<p>Lowell Thomas Jr. wrote several books, including Out of This World: Across the Himalayas to Forbidden Tibet, 
+				The Silent War in Tibet, and Our Flight to Adventure. On 1 October 2016, Lowell Thomas Jr., aged 92, died. </p>
+		</bioghist>
+		<scopecontent>
+			<p>This collection consists of reel-to-reel audio tapes recorded by Lowell Thomas Jr.</p>
+		</scopecontent>
+		<controlaccess>
+			<persname source="lcnaf" identifier="http://id.loc.gov/authorities/names/n79139713">
+				<part>Thomas, Lowell, 1892-1981</part>
+			</persname>
+			<persname source="lcnaf" identifier="http://id.loc.gov/authorities/names/n83014035">
+				<part>Thomas, Lowell, 1923-2016</part>
+			</persname>
+		</controlaccess>
+		<prefercite>
+			<p>[Description of item, date, location of item in order of series, box number, folder number], in the Lowell Thomas Jr. Audio Tape Collection, Archives and Special Collections, James A. Cannavino Library, Marist College</p>
+		</prefercite>
+		<arrangement>
+			<p>This collection is organized into five series: 1. Flight to Adventure, 2. Lowell Thomas Senior, 3. Tibet, 4. Thornburg Party, 5. Miscellany</p>
+		</arrangement>
+		<acqinfo>
+		</acqinfo>
+		<accruals>
+			<p>No accruals are expected. </p>
+		</accruals>
+		<relatedmaterial>
+			<p>[Lowell Thomas Jr. Papers](https://www.empireadc.org/search/catalog/npkmc_5433)</p>
+			<p>[Lowell Thomas Film Collection](https://www.empireadc.org/search/catalog/npkmc_3699)</p>
+			<p>[Lowell Thomas Memorabilia Collection](https://www.empireadc.org/search/catalog/npkmc_224_114)</p>
+			<p>[Lowell Thomas Papers: Graphic Materials](https://www.empireadc.org/search/catalog/npkmc_227_262)</p>
+			<p>[Lowell Thomas Papers: Objects](https://www.empireadc.org/search/catalog/npkmc_225_122)</p>
+			<p>[Lowell Thomas Papers: Sound Recordings](https://www.empireadc.org/search/catalog/npkmc_227_251)</p>
+			<p>[Lowell Thomas Papers: Textual Materials](https://www.empireadc.org/search/catalog/npkmc_225_061)</p>			
+		</relatedmaterial>
+
+		<dsc>
+			<c01 level="series">
+				<did>
+					<unittitle>1. Flight to Adventure</unittitle>
+					<unitdate unitdatetype="inclusive" normal="1954/1964">1954-1964</unitdate>
+					<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+						<quantity>20</quantity>
+						<unittype>tapes</unittype>
+					</physdescstructured>
+				</did>
+				<c02 level="item">
+					<did>
+						<unittitle>Narration by Lowell Thomas Jr.</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">1</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Morocco music and effects reel 2</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">2</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Timbuktu commentary part #2 by Lowell Thomas</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1964-02">February 1964</unitdate>
+						<container localtype="tape">3</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Lecture music and effects reel 1</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1955">1955</unitdate>
+						<container localtype="tape">4</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Lecture music and effects reel 2</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1955">1955</unitdate>
+						<container localtype="tape">5</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Various recordings</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">6</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Congo, native dance at Paulis</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954-05-2">May 2, 1954</unitdate>
+						<container localtype="tape">7</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Flight to Adventure; sounds of dancers and administration meeting</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954">1954</unitdate>
+						<container localtype="tape">8</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Sound effects for pygmey sequence</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">9</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Additional pygmy sound effects</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">10</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Pygmy and Watusi music for TV recording</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">11</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>TV Advertisement with Lowell Thomas</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">12</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Various sound effects; Reel 1-A</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">13</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Accompanying music</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">14</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>various sound effects (1)</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">15</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>various sound effects (2)</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">16</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>various sound effects (3)</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">December 1954 - January 1955</unitdate>
+						<container localtype="tape">17</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Sinbad music and effects</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">18</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Lecture sound effects</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">19</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Reel 2-B</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1954/1955">1954-1955</unitdate>
+						<container localtype="tape">20</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>2. Lowell Thomas Senior</unittitle>
+					<unitdate unitdatetype="inclusive" normal="1963/1966">1963-1966</unitdate>
+					<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+						<quantity>5</quantity>
+						<unittype>tapes</unittype>
+					</physdescstructured>
+				</did>
+				<c02 level="item">
+					<did>
+						<unittitle>Address at Macalester College</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1966-09-22">September 22, 1966</unitdate>
+						<container localtype="tape">21</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Radio "bloopers"</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">22</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Salt Lake City recording</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1963-03-15">March 15, 1963</unitdate>
+						<container localtype="tape">23</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Labor Talk on TV</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">24</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Message to school age boys and girls</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">25</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>3. Tibet</unittitle>
+					<unitdate unitdatetype="inclusive" normal="1954/1964">1950-1972</unitdate>
+					<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+						<quantity>11</quantity>
+						<unittype>tapes</unittype>
+					</physdescstructured>
+				</did>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet LT Jr voice track; production #353, reel #1</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1950/1960" certainty="circa">circa 1950</unitdate>
+						<container localtype="tape">26</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet LT Jr voice track; production #353, reel #2</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1950/1960" certainty="circa">circa 1950</unitdate>
+						<container localtype="tape">27</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet LT Jr voice track; production #353, reel #3</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1950/1960" certainty="circa">circa 1950</unitdate>
+						<container localtype="tape">28</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet LT Jr voice track; production #353, reel #4</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1950/1960" certainty="circa">circa 1950</unitdate>
+						<container localtype="tape">29</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet Reel 1 (1960-61 print) track ½</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1960/1961">1960-1961</unitdate>
+						<container localtype="tape">30</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet Reel 2 (1966 print, redone 1972)</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1972">1972</unitdate>
+						<container localtype="tape">31</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet Reel 1B and 2A; old version</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1959">1959</unitdate>
+						<container localtype="tape">32</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet music 1-A</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1950/1960" certainty="circa">circa 1950</unitdate>
+						<container localtype="tape">33</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet Reel 2 “B” old version</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1959">1959</unitdate>
+						<container localtype="tape">34</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Talk with the Dalai Lama and John Fabor; duplicate recording for radio</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1964">1964</unitdate>
+						<container localtype="tape">35</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Tibet reel 1 (new)</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1966">1966</unitdate>
+						<container localtype="tape">36</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>4. Thornburg Party</unittitle>
+					<unitdate unitdatetype="inclusive" normal="1967">1967</unitdate>
+					<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+						<quantity>6</quantity>
+						<unittype>tapes</unittype>
+					</physdescstructured>
+				</did>
+				<c02 level="item">
+					<did>
+						<unittitle>Reel 1 edited copy</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1967-08-06">August 6, 1967</unitdate>
+						<container localtype="tape">37</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Reel 2 edited copy</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1967-08-06">August 6, 1967</unitdate>
+						<container localtype="tape">38</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Reel 3 edited copy</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1967-08-06">August 6, 1967</unitdate>
+						<container localtype="tape">39</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Reel 1</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1967-08-06">August 6, 1967</unitdate>
+						<container localtype="tape">40</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Reel 2</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1967-08-06">August 6, 1967</unitdate>
+						<container localtype="tape">41</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Reel 3</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1967-08-06">August 6, 1967</unitdate>
+						<container localtype="tape">42</container>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>5. Miscellany</unittitle>
+					<unitdate unitdatetype="inclusive" normal="1963/1973">1963-1973</unitdate>
+					<physdescstructured coverage="whole" physdescstructuredtype="carrier">
+						<quantity>20</quantity>
+						<unittype>tapes</unittype>
+					</physdescstructured>
+				</did>
+				<c02 level="item">
+					<did>
+						<unittitle>Kennedy NBC Program “The Highest Price” Reel 1</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1963-11-24">November 24, 1963</unitdate>
+						<container localtype="tape">43</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Kennedy NBC Program “The Highest Price” Reel 2</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1963-11-24">November 24, 1963</unitdate>
+						<container localtype="tape">44</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Morocco sound effects reel 1</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">45</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Mr. World “Replogle” Globes</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">46</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Untitled</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1965">1965</unitdate>
+						<container localtype="tape">47</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Alexander, Herb; archaeology music tracks</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">48</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Newhart, Bob; various recordings</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1964-01-17">January 17, 1964</unitdate>
+						<container localtype="tape">49</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Various recordings; Conrad – ski songs, Harrison Woods</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">50</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Round the World Via the Poles, flight expedition</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1966-01-10">January 10, 1966</unitdate>
+						<container localtype="tape">51</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Recording of a monk singing at Sera</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">52</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Reel 2 DSP</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1968-05-05">May 5, 1968</unitdate>
+						<container localtype="tape">53</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Recordings of Shackleston, Lindbergh; Peary; T. R. Roosevelt</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1963-03">March 1963</unitdate>
+						<container localtype="tape">54</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Destination South Pacific music part 1, intermission and playout music</unittitle>
+						<unitdate>undated</unitdate>
+						<container localtype="tape">55</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>“How to have a wonderful life” by Norman V. Peale</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1970-08-07">August 7, 1970</unitdate>
+						<container localtype="tape">56</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Captain Eddie Rickendecker memorial service</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1973-08-07">August 7, 1973</unitdate>
+						<container localtype="tape">57</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>LT Jr. Reel 1, Flight over Both Poles</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1965-11">November 1965</unitdate>
+						<container localtype="tape">58</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>LT and LT Jr Reel 2, Flight over Both Poles</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1965-11">November 1965</unitdate>
+						<container localtype="tape">59</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Mary Taylor Thomas on the $64,000 challenge</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1957-03-31">March 31, 1957</unitdate>
+						<container localtype="tape">60</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Max W. Thornburg Middle East Address Reel 1</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1953">1953</unitdate>
+						<container localtype="tape">61</container>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Max W. Thornburg Middle East Address Reel 2 duplicate</unittitle>
+						<unitdate unitdatetype="inclusive" normal="1953">1953</unitdate>
+						<container localtype="tape">62</container>
+					</did>
+				</c02>
+			</c01>
+		</dsc>	
+	</archdesc>
+</ead>
